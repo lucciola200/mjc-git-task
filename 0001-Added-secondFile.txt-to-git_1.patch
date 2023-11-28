@@ -1,0 +1,29 @@
+From 90f853e7567ef34bb4fd3a892f6b904d21b82b71 Mon Sep 17 00:00:00 2001
+From: lucciolla200 <teoteo.odisharia@gmail.com>
+Date: Tue, 28 Nov 2023 15:49:59 +0400
+Subject: [PATCH] Added secondFile.txt to git_1
+
+---
+ secondFile.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 secondFile.txt
+
+diff --git a/secondFile.txt b/secondFile.txt
+new file mode 100644
+index 0000000..00935f1
+--- /dev/null
++++ b/secondFile.txt
+@@ -0,0 +1,10 @@
++Line 1
++Line 2
++Line 3
++Line 4
++Line 5
++Line 6
++Line 7
++Line 8
++Line 9
++Line 10
+-- 
+2.33.1.windows.1
+
